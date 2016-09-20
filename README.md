@@ -6,5 +6,5 @@ Puppet agent docker file will be creating puppet agent container, Please use bel
     docker run --name pupperagent1 -h puppetagent1 --add-host=puppet:172.17.0.2 -d -t -i puppetagent:image
     
     
-    
+    https://github.com/QualInsight/qualinsight-plugins-sonarqube-badges/releases
     https://github.com/SonarOpenCommunity/sonar-cxx/releases
